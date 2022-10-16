@@ -1,5 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+/**
+
+ * printf sends formatted output to screen
+
+ */
 
 int main(void)
 {
