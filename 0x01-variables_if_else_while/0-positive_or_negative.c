@@ -4,7 +4,11 @@
 /* more headers goes there */
 #include <stdio.h>
 
-/* main - starting point for program execution */
+/* betty style doc for function main goes there */
+
+/**
+*main - starting point for program execution
+*/
 
 int main(void)
 
@@ -19,10 +23,10 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 
 	/* your code goes there */
-	printf("%d\n", n);
-	if(n == 0)
+	printf("%d", n);
+	if (n == 0)
 		printf("is zero\n");
-	else if(n < 0)
+	else if (n < 0)
 		printf("is negative\n");
 	else
 		printf("is positive\n");
