@@ -6,11 +6,11 @@
 
  *
 
- * Return: Nothing
+ * Return: Always 0 (success)
 
  */
 
-void main(void)
+int main(void)
 
 {
 
@@ -25,6 +25,6 @@ void main(void)
 	_putchar('\n');
 
 
-
+	return (0);
 	
 }
