@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-/* main - putchar ch */
+/* main - putchar (ch) to print alphabets*/
 int main(void)
 {
 	char ch;
