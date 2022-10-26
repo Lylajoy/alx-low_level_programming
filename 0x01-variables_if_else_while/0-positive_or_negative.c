@@ -4,16 +4,13 @@
 /* more headers goes there */
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
-
-/* main - print negative or positive numbers*/
+/* main - negative or positive numbers*/
 
 int main(void)
 
 {
 
-	int n;
-	
+	int n;	
 
 	srand(time(0));
 
