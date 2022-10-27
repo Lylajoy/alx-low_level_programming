@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
-* main - putchar (ch) to print alphabets
+* main - print alphabetsusing putchar
 *
 * Return: Always 0.
 */
