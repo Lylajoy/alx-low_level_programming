@@ -4,7 +4,11 @@
 /* more headers goes there */
 #include <stdio.h>
 
-/* main - negative or positive numbers*/
+/**
+* main - negative or positive numbers
+*
+* Return: Always 0.
+*/
 
 int main(void)
 
