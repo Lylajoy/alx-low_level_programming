@@ -8,6 +8,11 @@
 
 /* betty style doc for function main goes there */
 
+/**
+* main - print last digits
+*
+* Return: Always 0.
+*/
 int main(void)
 
 {
