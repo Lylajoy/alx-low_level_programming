@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 /*
-* main - print alphabetsusing putchar
+* main - print alphabets using putchar
 *
 * Return: Always 0.
 */
+
 int main(void)
 {
 	char ch;
